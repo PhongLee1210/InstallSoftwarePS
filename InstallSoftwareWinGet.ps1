@@ -19,7 +19,7 @@ It will ask the user if they want to install the following software:
 - PowerShell
 - Elgato Streamdeck
 .EXAMPLE
-.\InstallSoftware.ps1
+.\InstallSoftwareWinGet.ps1
 #>
 
 do { $zoom = 'Will you need Zoom installed?[Y/N]'
