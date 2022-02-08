@@ -19,7 +19,7 @@ Chocolatey is a third party package manager.  It is also an open source project.
 # How can this repository help?
 As I said earlier it can be a pain building a new Windows laptop or desktop PC. The scripts run through 14 questions asking if you need to have certain software installed. The scripts uses Winget to install the software.
 
-- [Install software with Winget](installsoftware.ps1)
+- [Install software with Winget](InstallSoftwarePS.ps1)
 
 The software that the scripts will ask about and install are:
 
